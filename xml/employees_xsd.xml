@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <!-- TODO: link to the employee's xsl file -->
-<?xml-stylesheet type="text/xsl" href="../xsl/employee.xslt"?>
+<?xml-stylesheet type="text/xsl" href="../xsl/employee_aged_below30.xslt"?>
 
 <!-- Link to the employee's schema document. -->
 <employees xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
